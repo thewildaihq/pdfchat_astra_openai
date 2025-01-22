@@ -83,6 +83,14 @@ During the setup and execution process, you might encounter certain issues. This
 
 For more in-depth information about the flow and process, consider reading [this blog post](https://www.thewildai.com/blog/build-an-ai-pdf-document-chatbot-in-python-using-langchain-openai-embeddings-and-astradb). The blog provides insights into the underlying technology and offers a detailed explanation of the project's architecture.
 
+
+## Screens
+![Demo](screens/demo.jpg)
+
+![Demo](screens/astradb1.png)
+
+![Demo](screens/astradb2.png)
+
 ## Contributing
 
 We welcome contributions from the community! Whether you're looking to fix a bug, add a new feature, or improve the documentation, your efforts are appreciated. Please adhere to our code of conduct and review the contribution guidelines before submitting a pull request. Join us in enhancing this project and making it more robust and versatile.
@@ -94,3 +102,5 @@ This project is licensed under the Apache 2.0 License. This license allows for p
 ## Conclusion
 
 Thank you for choosing to explore the PDF Document Chat project. We hope this guide has provided you with the necessary information to set up and run your application successfully. Enjoy the seamless experience of interacting with your PDFs using AI, and feel free to reach out with any questions or feedback. Happy coding!
+
+
