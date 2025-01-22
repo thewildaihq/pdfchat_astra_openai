@@ -40,7 +40,7 @@ Before diving into the installation and setup, ensure you have the following API
 This section outlines the step-by-step process for setting up the environment and getting the application up and running.
 
 1. **Create a Vector Database:**
-   - Begin by creating a vector database on [AstraDB](https://astra.datastax.com/). This database will store the vector embeddings generated from your PDF documents. If you're unsure how to create a database, refer to [this video tutorial](#) for a comprehensive walkthrough.
+   - Begin by creating a vector database on [AstraDB](https://astra.datastax.com/). This database will store the vector embeddings generated from your PDF documents. If you're unsure how to create a database, refer to [this video tutorial](https://youtu.be/H8rVRHj7St8) for a comprehensive walkthrough.
 
 2. **Environment Setup:**
    - Once you have your database set up, rename the `env.sample` file to `.env`. Populate this file with the API keys and configuration details you gathered in the prerequisites section. This file is crucial as it allows your application to connect to the necessary services.
